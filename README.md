@@ -1,2 +1,2 @@
-# Beaches-Terengganu
-web map designed for famous beaches in Terengganu
+# Famous Beaches In Terengganu
+Web map designed for famous beaches in Terengganu
